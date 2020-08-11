@@ -39,7 +39,7 @@ Design feito por [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/
 
 ## 📥 Executar esse projeto no seu computador
 
-- Clonar Repositório: `git clone https://github.com/guilhermetj/NLW2-Proffy.git`
+- Clonar Repositório: `git clone https://github.com/guilhermetj/Proffy.git`
 
 Ir para a pasta 'web' para rodar o front-end, ou ir para pasta 'server' para rodar o back-end:
 
