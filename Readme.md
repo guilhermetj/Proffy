@@ -9,7 +9,7 @@
 
 ## 💡 Sobre o Projeto
 
-Criação do Proffy, uma plataforma para conexão professores e alunos.
+Criação do Proffy, uma plataforma para conexão professores e alunos desenvolvido durante a NLW da Rocketseat.
 
 ## 🚀 Tecnologias utilizadas
 
